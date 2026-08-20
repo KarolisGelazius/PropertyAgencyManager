@@ -1,6 +1,6 @@
 # Real Estate Agency Analytics System
 
-An object-oriented C# / .NET system for multi-agency real estate portfolio aggregation, cross-listing detection, and automated analytical reporting.
+A system for multi-agency real estate analytics, property hierarchy modeling, and sorting via abstract data structures.
 
 ---
 
