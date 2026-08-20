@@ -1,0 +1,47 @@
+﻿NT AGENTŪRŲ APDOROJIMO REZULTATAI
+ Generated: 2026-04-28 15:59:18
+---------------------------------------------------------------------------------------------------------
+| Capital City Real Estate       | Gedimino pr. 1, Vilnius                      | +37060011111          |
+---------------------------------------------------------------------------------------------------------
+| Miestas   | Rajonas      | Gatvė          | Nr. | Tipas    | Metai | Plotas  | Papildoma              |
+---------------------------------------------------------------------------------------------------------
+| Vilnius   | Senamiestis  | Gedimino pr.   |   1 | Brick    |  1940 |   120,5 | Aukštas: 2             |
+| Vilnius   | Antakalnis   | Smėlio g.      |   5 | Block    |  1985 |    65,0 | Aukštas: 4             |
+| Vilnius   | Pavilnys     | Slyvų g.       |  12 | Log      |  2010 |   210,0 | Šildymas: Gas          |
+| Vilnius   | Senamiestis  | Vokiečių g.    |  10 | Brick    |  1900 |    95,0 | Aukštas: 3             |
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+| Modern Living Agency           | Savanorių pr. 120, Kaunas                    | +37060022222          |
+---------------------------------------------------------------------------------------------------------
+| Miestas   | Rajonas      | Gatvė          | Nr. | Tipas    | Metai | Plotas  | Papildoma              |
+---------------------------------------------------------------------------------------------------------
+| Kaunas    | Centras      | Laisvės al.    |  15 | Brick    |  1930 |    85,0 | Aukštas: 2             |
+| Vilnius   | Senamiestis  | Gedimino pr.   |   1 | Brick    |  1940 |   120,5 | Aukštas: 2             |
+| Kaunas    | Žaliakalnis  | Vaisių g.      |   8 | Brick    |  2022 |   250,0 | Šildymas: Geotherm     |
+| Kaunas    | Dainava      | Partizanų g.   |  44 | Block    |  1978 |    45,0 | Aukštas: 5             |
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+| Coastal Properties             | Turgaus g. 1, Klaipėda                       | +37060033333          |
+---------------------------------------------------------------------------------------------------------
+| Miestas   | Rajonas      | Gatvė          | Nr. | Tipas    | Metai | Plotas  | Papildoma              |
+---------------------------------------------------------------------------------------------------------
+| Klaipėda  | Senamiestis  | Tiltų g.       |  10 | Brick    |  1920 |   115,0 | Aukštas: 3             |
+| Klaipėda  | Melnragė     | Audros g.      |   5 | Monolith |  2018 |   105,0 | Aukštas: 5             |
+| Klaipėda  | Giruliai     | Vasaros g.     |  22 | Wooden   |  2005 |   280,0 | Šildymas: Electric     |
+| Klaipėda  | Centras      | Liepų g.       |  14 | Brick    |  1955 |    55,5 | Aukštas: 1             |
+| Klaipėda  | Paupiai      | Saulės g.      |   3 | Brick    |  2024 |   195,0 | Šildymas: Aerother     |
+| Vilnius   | Senamiestis  | Gedimino pr.   |   1 | Brick    |  1940 |   120,5 | Aukštas: 2             |
+| Vilnius   | Pavilnys     | Slyvų g.       |  12 | Log      |  2010 |   210,0 | Šildymas: Gas          |
+---------------------------------------------------------------------------------------------------------
+
+=======================================================
+POPULIARIAUSI NT TIPAI:
+=======================================================
+| Agentūra                     | Tipas (Kiekis)       |
+-------------------------------------------------------
+| Capital City Real Estate     | Brick (2)            |
+| Modern Living Agency         | Brick (3)            |
+| Coastal Properties           | Brick (4)            |
+=======================================================

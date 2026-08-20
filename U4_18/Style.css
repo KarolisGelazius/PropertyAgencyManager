@@ -1,0 +1,83 @@
+﻿body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 30px;
+    background-color: #f4f7f6;
+}
+
+.section-title {
+    display: block;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 30px 0 10px 0;
+    color: #2c3e50;
+    text-decoration: underline;
+}
+
+.error-text {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+.success-text {
+    color: #27ae60;
+    font-weight: bold;
+}
+
+.data-table {
+    border-collapse: collapse;
+    width: 100%;
+    background: white;
+    margin-bottom: 20px;
+    border: 1px solid #333;
+}
+
+    .data-table th, .data-table td {
+        border: 1px solid #333;
+        padding: 10px;
+        text-align: left;
+    }
+
+    .data-table th {
+        background-color: #ecf0f1;
+    }
+
+    .data-table td:nth-child(4),
+    .data-table td:nth-child(6),
+    .data-table td:nth-child(7),
+    .data-table td:nth-child(8),
+    .numeric-cell {
+        text-align: right !important;
+        padding-right: 15px !important;
+        font-variant-numeric: tabular-nums;
+    }
+
+.agency-header {
+    background-color: #34495e;
+    color: white;
+    font-weight: bold;
+}
+
+.result-list {
+    list-style: none;
+    padding: 0;
+}
+
+    .result-list li {
+        background: #fff;
+        margin: 5px 0;
+        padding: 10px;
+        border-radius: 4px;
+        border: 1px solid #ddd;
+        width: fit-content;
+    }
+
+    .result-list a {
+        color: #2980b9;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .result-list a:hover {
+            text-decoration: underline;
+            color: #c0392b;
+        }
